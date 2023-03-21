@@ -1,0 +1,15 @@
+{
+  "name": "sigma-helper",
+  "version": "0.1.0",
+  "description": "commander helper for sigma",
+  "main": "main.js",
+  "dependencies": {
+    "commander": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhany Nurdiansyah",
+  "license": "MIT"
+}
